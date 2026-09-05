@@ -1,0 +1,30 @@
+/build/
+/build-release/
+/build-research-*/
+/.codex-worktrees/
+/%SystemDrive%/
+/artifacts/
+/research/evidence/SCORE-F0-QUALITY-ORDER-240-base.tar
+/.tmp-*
+/old/build-current-probe/
+/old/builds/
+/old/results/raw/
+/old/snapshots/
+
+# Local compiler and editor state
+/.cache/
+/.vs/
+/.vscode/
+*.user
+*.suo
+*.tmp
+
+# Generated binaries and crash dumps
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.dmp
+__pycache__/
+*.pyc
